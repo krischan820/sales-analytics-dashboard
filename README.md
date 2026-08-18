@@ -1,6 +1,6 @@
 # Sales Analytics Dashboard
 
-Web Link: https://sales-analytics-dashboard-4smrhhviwtwwcembahfqbm.streamlit.app/
+Link: https://sales-analytics-dashboard-4smrhhviwtwwcembahfqbm.streamlit.app/
 
 A project that takes raw sales records from a fictional online store and
 turns them into three things a business would actually want to know:
